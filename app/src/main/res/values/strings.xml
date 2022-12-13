@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">lab2</string>
+
+    <string-array name="emails">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+
+    <string-array name="passwords">
+        <item>111</item>
+        <item>222</item>
+        <item>333</item>
+        <item>444</item>
+        <item>555</item>
+    </string-array>
+
+    <!--For the list-->
+    <string-array name="recips">
+        <item>Recipe 1</item>
+        <item>Recipe 2</item>
+        <item>Recipe 3</item>
+        <item>Recipe 4</item>
+        <item>Recipe 5</item>
+        <item>Recipe 6</item>
+        <item>Recipe 7</item>
+        <item>Recipe 8</item>
+        <item>Recipe 9</item>
+        <item>Recipe 10</item>
+        <item>Recipe 11</item>
+        <item>Recipe 12</item>
+        <item>Recipe 13</item>
+        <item>Recipe 14</item>
+        <item>Recipe 15</item>
+        <item>Recipe 16</item>
+        <item>Recipe 17</item>
+        <item>Recipe 18</item>
+        <item>Recipe 19</item>
+        <item>Recipe 20</item>
+        <item>Recipe 21</item>
+        <item>Recipe 22</item>
+        <item>Recipe 23</item>
+        <item>Recipe 24</item>
+        <item>Recipe 25</item>
+
+
+    </string-array>
+
+    <string name="title_list_recipe">List of recipes</string>
+    <string name="title_current_recipe">Current recipe</string>
+    <string name="title_favourite_recipe">Favourite recipe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="holaaaaaaaaaaa">HOLAAAAAAAAAAA</string>
+</resources>
